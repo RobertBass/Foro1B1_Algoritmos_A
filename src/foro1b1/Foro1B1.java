@@ -7,6 +7,8 @@ import java.util.Scanner;
 public class Foro1B1 {
 
     public static void main(String[] args) {
+        
+        // Una empresa importadora necesita conocer cuantos euros, soles y pesos colombianos puede adquirir con la venta de 20 computadoras aa 1200 dolares americanos cada una.
 
         Scanner teclado = new Scanner(System.in);
         
